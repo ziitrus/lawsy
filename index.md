@@ -1,144 +1,277 @@
-# 🧾 10 dernières lois promulguées en France (été 2025)
+🔹 Loi n° 2025‑732 — Relative à la lutte contre l’antisémitisme dans l’enseignement supérieur
+
+📅 Date traitée : 31 juillet 2025 (promulguée JO 1 août 2025)
+📝 Statut actuel : promulguée
+📁 Catégorie : Éducation / Lutte contre les discriminations
+
+🎯 Objet :
+Renforcer la prévention de l’antisémitisme dans les universités et établissements d’enseignement supérieur.
+
+👥 Public concerné :
+Étudiants, personnels universitaires, établissements de l’enseignement supérieur.
+
+📌 Effets concrets (si applicables) :
+
+Programmes de sensibilisation obligatoires
+
+Sanctions disciplinaires renforcées
+
+
+🏛️ Initiée par :
+(parlementaire non précisé dans résumé)
+
+🔍 Zone grise / Détail à savoir :
+Application logistique variable selon les établissements.
+
 
 ---
 
-## ▶️ Citoyenneté — **Loi n° 2025‑732**  
-### 📅 31 juillet 2025  
-### **Lutte contre l’antisémitisme dans l’enseignement supérieur**  
-🎯 **Objet** : Renforcer la détection, le signalement et la prévention des actes antisémites ou racistes dans les établissements d’enseignement supérieur.  
-👥 **Public concerné** : étudiants et personnels administratifs ou enseignants.  
-📌 **Effets concrets** : formations obligatoires, référents “égalité-diversité”, rapports annuels.  
-⚠️ **Impact** : durcissement institutionnel de la lutte contre les discriminations.  
-🏛️ **Initiée par** : Sénateurs Pierre‑Antoine Lévi (Union Centriste) & Bernard Fialaire (RDSE) — députés indépendants.  
-🔍 **À savoir** : adoption en procédure accélérée sans plan budgétaire clair.  
-1
+🔹 Loi n° 2025‑658 — Relative au droit de vote par correspondance des personnes détenues
+
+📅 Date traitée : 18 juillet 2025 (promulguée JO 19 juillet 2025)
+📝 Statut actuel : promulguée
+📁 Catégorie : Droit / Justice
+
+🎯 Objet :
+Permettre aux détenus d’exercer le droit de vote par correspondance.
+
+👥 Public concerné :
+Personnes détenues, administrations pénitentiaires.
+
+📌 Effets concrets :
+
+Mise en place d’un vote à distance
+
+Encadrement par l’administration pénitentiaire
+
+
+🏛️ Initiée par :
+(parlementaire non précisé)
+
+🔍 Zone grise :
+Questions sur la garantie de secret du vote.
+
 
 ---
 
-## 🗳️ Citoyenneté — **Loi n° 2025‑658**  
-### 📅 18 juillet 2025  
-### **Suppression du vote par correspondance des personnes détenues**  
-🎯 **Objet** : Interdire aux personnes incarcérées le vote postal aux élections locales/nationales.  
-👥 **Public concerné** : détenus, administration pénitentiaire.  
-📌 **Effets concrets** : fin du vote postal à partir de mars 2026 ; vote possible seulement par procuration.  
-⚠️ **Impact** : réduction notable des possibilités de vote en détention.  
-🏛️ **Initiée par** : Sénatrice Laure Darcos (Les Indépendants – République & Territoires).  
-🔍 **À savoir** : exceptions locales introduites, possibles disparités entre communes.  
-2
+🔹 Loi n° 2025‑644 — Relative à la restitution d’un bien culturel à la République de Côte d’Ivoire
+
+📅 16 juillet 2025 (JO 17 juillet 2025)
+📝 promulguée
+📁 Culture / Relations internationales
+
+🎯 Objet :
+Restituer un objet culturel à la Côte d’Ivoire.
+
+👥 Public concerné :
+Musées, États bénéficiaires, patrimoine culturel.
+
+📌 Effets concrets :
+
+Transmission juridique du bien
+
+Coopération museographique
+
+
+🏛️ Initiée par :
+(parlementaire non précisé)
+
+🔍 Zone grise :
+Critiques sur absence d’un cadre plus global de restitution.
+
 
 ---
 
-## 🎭 Culture / Patrimoine — **Loi n° 2025‑644**  
-### 📅 16 juillet 2025  
-### **Restitution d’un bien culturel à la Côte d’Ivoire**  
-🎯 **Objet** : Transférer un objet du patrimoine français à l’État ivoirien.  
-👥 **Public concerné** : musées, ministère de la Culture, autorités ivoiriennes.  
-📌 **Effets concrets** : restitution symbolique, révision des inventaires.  
-⚠️ **Impact** : geste historique sans dimension budgétaire dite.  
-🏛️ **Initiée par** : députés favorables à la restitution (divers groupes).  
-🔍 **À savoir** : financement non précisé dans le texte.  
-3
+🔹 Loi n° 2025‑640 — Portant création de l’établissement public du commerce et de l’industrie de la collectivité de Corse
+
+📅 15 juillet 2025 (JO 16 juillet 2025)
+📝 promulguée
+📁 Économie / Collectivités territoriales
+
+🎯 Objet :
+Créer une structure publique pour le développement économique en Corse.
+
+👥 Public concerné :
+Entreprises locales, collectivités corses, acteurs économiques.
+
+📌 Effets concrets :
+
+Gouvernance dédiée à l’industrie et au commerce
+
+Coordination territoriale
+
+
+🏛️ Initiée par :
+(parlementaire/localité non précisé)
+
+🔍 Zone grise :
+Budget initial non clarifié.
+
 
 ---
 
-## 🏝️ Territoires — **Loi n° 2025‑640**  
-### 📅 15 juillet 2025  
-### **Création d’un EPIC Commerce/Industrie en Corse**  
-🎯 **Objet** : Instituer un établissement public pour encadrer l’économie insulaire.  
-👥 **Public concerné** : collectivités corses, acteurs économiques locaux.  
-📌 **Effets concrets** : création de structure spécialisée à dotation dédiée.  
-⚠️ **Impact** : renforcement institutionnel du développement économique en Corse.  
-🏛️ **Initiée par** : députés du groupe Régions & Territoires, avec appui gouvernemental.  
-🔍 **À savoir** : gouvernance peu claire, budget imprécis.  
-4
+🔹 Loi n° 2025‑623 — Visant à renforcer la sécurité des professionnels de santé
+
+📅 9 juillet 2025 (JO 10 juillet 2025)
+📝 promulguée
+📁 Santé / Sécurité
+
+🎯 Objet :
+Protéger les personnels de santé contre les violences.
+
+👥 Public concerné :
+Médecins, infirmiers, personnels hospitaliers.
+
+📌 Effets concrets :
+
+Sanctions pénales renforcées
+
+Protocoles de signalement dans les établissements
+
+
+🏛️ Initiée par :
+(parlementaire non précisé)
+
+🔍 Zone grise :
+Mise en œuvre variable selon les hôpitaux.
+
 
 ---
 
-## 🚔 Sécurité / Justice — **Loi n° 2025‑623**  
-### 📅 9 juillet 2025  
-### **Renforcement de la sécurité des professionnels de santé**  
-🎯 **Objet** : Renforcer la protection juridique des personnels médicaux (contre les violences).  
-👥 **Public concerné** : soignants, autorités hospitalières, forces de sécurité.  
-📌 **Effets concrets** : sanctions accrues, protocoles obligatoires, alerte systématique.  
-⚠️ **Impact** : protection statutaire améliorée mais dépend du matériel disponible.  
-🏛️ **Initiée par** : majorité parlementaire (suite à plusieurs incidents).  
-🔍 **À savoir** : dépend des ressources disponibles dans chaque établissement.  
-5
+🔹 Loi n° 2025‑622 — Créant l’homicide routier et visant à lutter contre la violence routière
+
+📅 9 juillet 2025 (JO 10 juillet 2025)
+📝 promulguée
+📁 Justice / Sécurité routière
+
+🎯 Objet :
+Introduire une infraction spécifique d’homicide routier.
+
+👥 Public concerné :
+Conducteurs, victimes d’accidents, forces de l’ordre.
+
+📌 Effets concrets :
+
+Qualification pénale nouvelle
+
+Peines maximales augmentées
+
+
+🏛️ Initiée par :
+(parlementaire non précisé)
+
+🔍 Zone grise :
+Interprétation judiciaire susceptible d’évoluer.
+
 
 ---
 
-## 🚔 Sécurité / Justice — **Loi n° 2025‑622**  
-### 📅 9 juillet 2025  
-### **Création du délit d’homicide routier**  
-🎯 **Objet** : Créer une incrimination spécifique pour les accidents mortels liés à une conduite dangereuse.  
-👥 **Public concerné** : conducteurs, justice, forces de l’ordre.  
-📌 **Effets concrets** : nouveau terme légal, peines aggravées, campagne de sensibilisation.  
-⚠️ **Impact** : durcissement judiciaire symbolique.  
-🏛️ **Initiée par** : députée Anne Brugnera (Renaissance).  
-🔍 **À savoir** : réforme jugée d’abord symbolique, selon certains experts.  
-6
+🔹 Loi n° 2025‑596 — Visant à mettre en place un registre national des cancers
+
+📅 30 juin 2025 (JO 1er juillet 2025)
+📝 promulguée
+📁 Santé / Recherche
+
+🎯 Objet :
+Créer un registre national pour centraliser les données sur les cancers.
+
+👥 Public concerné :
+Patients, chercheurs, professionnels de santé.
+
+📌 Effets concrets :
+
+Collecte d’informations épidémiologiques
+
+Suivi statistique des cancers
+
+
+🏛️ Initiée par :
+(parlementaire non précisé)
+
+🔍 Zone grise :
+Protection des données personnelles.
+
 
 ---
 
-## 🩺 Santé publique — **Loi n° 2025‑596**  
-### 📅 30 juin 2025  
-### **Mise en place d’un registre national des cancers**  
-🎯 **Objet** : Centraliser les données relatives aux cancers à l’échelle nationale.  
-👥 **Public concerné** : patients, institutions médicales, chercheurs, INCa.  
-📌 **Effets concrets** : registre INCa, coordination régionale, suivi épidémiologique.  
-⚠️ **Impact** : amélioration stratégique de santé publique.  
-🏛️ **Initiée par** : Assemblée nationale.  
-🔍 **À savoir** : accès aux données peu clair pour les chercheurs indépendants.  
-7
+🔹 Loi n° 2025‑595 — Visant à protéger les personnes engagées dans un projet parental des discriminations au travail
+
+📅 30 juin 2025 (JO 1er juillet 2025)
+📝 promulguée
+📁 Travail / Famille
+
+🎯 Objet :
+Prévenir les discriminations envers les parents en projet parental (grossesse, adoption…).
+
+👥 Public concerné :
+Salariés, recruteurs, employeurs.
+
+📌 Effets concrets :
+
+Renforcement des sanctions
+
+Formation des RH
+
+
+🏛️ Initiée par :
+(parlementaire non précisé)
+
+🔍 Zone grise :
+Modalités de signalement floues.
+
 
 ---
 
-## 👨‍👩‍👧 Droits sociaux — **Loi n° 2025‑595**  
-### 📅 30 juin 2025  
-### **Protection contre les discriminations liées à un projet parental**  
-🎯 **Objet** : Empêcher la discrimination au travail des personnes en parcours de parentalité (PMA, grossesse…).  
-👥 **Public concerné** : salariés, employeurs, agents publics.  
-📌 **Effets concrets** : inclusion dans le Code du travail, sanctions renforcées.  
-⚠️ **Impact** : protection améliorée des travailleurs.  
-🏛️ **Initiée par** : Assemblée nationale.  
-🔍 **À savoir** : PME et employeurs manquent souvent de guides à l’application.  
-8
+🔹 Loi n° 2025‑594 — Contre toutes les fraudes aux aides publiques
+
+📅 30 juin 2025 (JO 1er juillet 2025)
+📝 promulguée
+📁 Économie / Finances publiques
+
+🎯 Objet :
+Renforcer les contrôles et sanctions contre la fraude aux aides publiques.
+
+👥 Public concerné :
+Bénéficiaires d’aides, administrations sociales et fiscales.
+
+📌 Effets concrets :
+
+Renfort de l’outil de contrôle
+
+Majoration des sanctions
+
+
+🏛️ Initiée par :
+(parlementaire non précisé)
+
+🔍 Zone grise :
+Equilibre entre rigueur et accès aux aides incertain.
+
 
 ---
 
-## 💰 Aides sociales — **Loi n° 2025‑594**  
-### 📅 30 juin 2025  
-### **Lutte contre la fraude aux aides publiques**  
-🎯 **Objet** : Renforcer le contrôle et les sanctions contre les fraudes aux aides (sociales, MaPrimeRénov’, etc.).  
-👥 **Public concerné** : allocataires, CAF, prestataires, collectivités.  
-📌 **Effets concrets** : croisement de données, suspension des aides, recouvrement rapide.  
-⚠️ **Impact** : durcissement de la vérification sociale.  
-🏛️ **Initiée par** : Assemblée nationale.  
-🔍 **À savoir** : certaines suspensions peuvent durer jusqu’à trois mois avant décision définitive.  
-9
+🔹 Loi n° 2025‑580 — Visant à améliorer l’accès aux soins par la territorialisation et la formation
 
----
+📅 27 juin 2025 (JO 28 juin 2025)
+📝 promulguée
+📁 Santé / Formation professionnelle
 
-## 🩺 Santé / Territoires — **Loi n° 2025‑581**  
-### 📅 27 juin 2025  
-### **Encadrement du statut infirmier**  
-🎯 **Objet** : Redéfinir les missions, compétences et formations des infirmiers.  
-👥 **Public concerné** : infirmiers, ARS, établissements de santé.  
-📌 **Effets concrets** : création de postes IPA, délégation encadrée, reconnaissance de consultations.  
-⚠️ **Impact** : modernisation du rôle infirmier.  
-🏛️ **Initiée par** : Assemblée nationale.  
-🔍 **À savoir** : décrets d’application attendus pour mise en œuvre complète.  
-10
+🎯 Objet :
+Réduire les déserts médicaux par territorialisation des services et formation.
 
----
+👥 Public concerné :
+Patients, professionnels de santé, collectivités territoriales.
 
-## 👶 Justice des mineurs — **Loi n° 2025‑568**  
-### 📅 23 juin 2025  
-### **Responsabilité parentale des mineurs délinquants**  
-🎯 **Objet** : Impliquer les parents dans la gestion judiciaire des mineurs en conflit avec la loi.  
-👥 **Public concerné** : mineurs, familles, juges, éducateurs.  
-📌 **Effets concrets** : responsabilité accrue, procédures éducatives accélérées.  
-⚠️ **Impact** : durcissement judiciaire des mesures familiales.  
-🏛️ **Initiée par** : Assemblée nationale.  
-🔍 **À savoir** : application variable selon les politiques locales.  
-11
+📌 Effets concrets :
+
+Déploiement de centres de santé
+
+Bourses de formation ciblées
+
+
+🏛️ Initiée par :
+(parlementaire non précisé)
+
+🔍 Zone grise :
+Durée et financement pluriannuels à préciser.
+
